@@ -1,6 +1,6 @@
 {
-  "author": "Rickon Reinhold",
   "name": "fcc-learn-npm-package-json",
+  "author": "Rickon Reinhold",
   "dependencies": {
     "express": "^4.14.0"
   },
